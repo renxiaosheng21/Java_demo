@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+package com.string;
 
 public class StringSplit {
     public static void main(String[] args) {
